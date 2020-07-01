@@ -25,5 +25,3 @@ $ make serve
 * Probably understand how Jekyll works a bit better...
 * Rakefile vs Makefile?
 * Backfill `_posts` with content from my brain.
-* Search would be nice.
-* Tags for posts would also be nice! (Searchable tags? 🤔)
